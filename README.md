@@ -1,3 +1,16 @@
+# What is this?
+
+I'm trying to repro this bug: https://github.com/danbovey/react-infinite-scroller/issues/296, but so far I haven't been able to :confused:
+
+## How do I run this?
+
+```sh
+npm install
+npm start
+```
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
